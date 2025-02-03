@@ -19,6 +19,7 @@ public class EmpController {
 		emps.add(new Emp(1,"Satish"));
 		emps.add(new Emp(2,"Rahul"));
 		emps.add(new Emp(3,"Vikas"));
+		emps.add(new Emp(4,"Yatin"));
 		return emps;
 		
 	}
